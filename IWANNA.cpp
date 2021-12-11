@@ -1,12 +1,12 @@
 /**************************************************************************************************************************************************************************
 
 ***************************************************************************************************************************************************************************
-*  -è¿™ä¸ªæ˜¯ä¸€ä¸ªi wannaæ¸¸æˆï¼Œå–åä¸ºï¼ši wanna fight with C                                                                                                                   *
-*  -æ­¤é¡¹ç›®ä¸ºæˆ‘ä»¬å…±åŒå®Œæˆçš„Cè¯­è¨€ä½œä¸š,ä»£ç å‡ä¸ºæ‰‹æ‰“ï¼Œæ— ä»»ä½•å¤åˆ¶æˆ–ç…§æŠ„ã€‚                                                       *
-*  -æ­¤å¤–ç”¨åˆ°äº†Easyxè‡ªå¸¦çš„å¤´æ–‡ä»¶<graphics.h>ï¼Œç›®å‰åªå…¼å®¹VC++ï¼Œå› æ­¤è¯·ä¸‹è½½å®‰è£…Easyxå¹¶ç”¨VC++è¿è¡Œæ­¤ç¨‹åºï¼ˆCodeblocksè²Œä¼¼è¿è¡Œä¸èµ·æ¥ï¼‰                                            *
-*  -ç§‘æ™®ï¼ši wanna ä¸ºä¸€æ¬¾å˜æ€åƒç´ å°æ¸¸æˆç³»åˆ—ï¼Œä»¥å‘äººå’Œé«˜éš¾åº¦æ“ä½œå‡ºåï¼Œæœ¬å®¶ä½œå“ä¸º â€œi wanna be the guyâ€ã€‚æ„Ÿå…´è¶£çš„ä¼™ä¼´å¯ä»¥ä¸Šç™¾åº¦æœç´¢ â€œdelicious fruitâ€ å³å¯ä¸‹è½½æ­¤ç³»åˆ—æ¸¸æˆ  *
-*  -ä»£ç é‡çœŸçš„ç‰¹åˆ«å¤§ï¼Œéš¾åº¦ä¹Ÿè¾ƒé«˜ï¼Œä»hithub,CSDNï¼ŒBilibiliç­‰åœ°æ–¹è‡ªå­¦å†™çš„ä½œå“ï¼Œæ±‚æ±‚è€å¸ˆå¤šç»™ç‚¹åˆ†å§æ¥å¼¥è¡¥æŸè€—æ‰çš„å¤´å‘å§ ï¼ˆï¼äººï¼œï¼›ï¼‰                                          *
-*  -ç¥å¤§å®¶æ¸¸æˆæ„‰å¿«ï¼ï¼ï¼ˆå¯èƒ½æ¸¸æˆé‡Œæœ‰ä¸€äº›å°bugä¼šå½±å“æ¸¸æˆä½“éªŒï¼Œå¸Œæœ›å¤§å®¶ä¸è¦å¤ªä»‹æ„ï¼‰                                                                                         *
+*  -Õâ¸öÊÇÒ»¸öi wannaÓÎÏ·£¬È¡ÃûÎª£ºi wanna fight with C                                                                                                                   *
+*  -´ËÏîÄ¿Îª 20 ¼¶Éú¹¤°à Íõ»À¾û£¬·ëÃú¿¡£¬ÂÀ³½Ô½£¬Î¤Çì²¨£¬ÕÅê»Ìì¹²Í¬Íê³ÉµÄCÓïÑÔ×÷Òµ,´úÂë¾ùÎªÊÖ´ò£¬ÎŞÈÎºÎ¸´ÖÆ»òÕÕ³­¡£                                                       *
+*  -´ËÍâÓÃµ½ÁËEasyx×Ô´øµÄÍ·ÎÄ¼ş<graphics.h>£¬Ä¿Ç°Ö»¼æÈİVC++£¬Òò´ËÇëÏÂÔØ°²×°Easyx²¢ÓÃVC++ÔËĞĞ´Ë³ÌĞò£¨CodeblocksÃ²ËÆÔËĞĞ²»ÆğÀ´£©                                            *
+*  -¿ÆÆÕ£ºi wanna ÎªÒ»¿î±äÌ¬ÏñËØĞ¡ÓÎÏ·ÏµÁĞ£¬ÒÔ¿ÓÈËºÍ¸ßÄÑ¶È²Ù×÷³öÃû£¬±¾¼Ò×÷Æ·Îª ¡°i wanna be the guy¡±¡£¸ĞĞËÈ¤µÄ»ï°é¿ÉÒÔÉÏ°Ù¶ÈËÑË÷ ¡°delicious fruit¡± ¼´¿ÉÏÂÔØ´ËÏµÁĞÓÎÏ·  *
+*  -´úÂëÁ¿ÕæµÄÌØ±ğ´ó£¬ÄÑ¶ÈÒ²½Ï¸ß£¬´Óhithub,CSDN£¬BilibiliµÈµØ·½×ÔÑ§Ğ´µÄ×÷Æ·£¬ÇóÇóÀÏÊ¦¶à¸øµã·Ö°ÉÀ´ÃÖ²¹ËğºÄµôµÄÍ··¢°É £¨£¾ÈË£¼£»£©                                          *
+*  -×£´ó¼ÒÓÎÏ·Óä¿ì£¡£¡£¨¿ÉÄÜÓÎÏ·ÀïÓĞÒ»Ğ©Ğ¡bug»áÓ°ÏìÓÎÏ·ÌåÑé£¬Ï£Íû´ó¼Ò²»ÒªÌ«½éÒâ£©                                                                                         *
 ***************************************************************************************************************************************************************************
 
 ***************************************************************************************************************************************************************************/
@@ -16,71 +16,75 @@
 #include <stdio.h>
 #include <windows.h>
 
-#define Weight 800        //æ¸¸æˆç”»é¢é•¿
-#define High 608          //æ¸¸æˆç”»é¢å®½
+#define Weight 800        //ÓÎÏ·»­Ãæ³¤
+#define High 608          //ÓÎÏ·»­Ãæ¿í
 
-#define bian 32           //ç –å—è¾¹é•¿
-#define high_ch 21        //äººç‰©é•¿
-#define weight_ch 11      //äººç‰©å®½
+#define bian 32           //×©¿é±ß³¤
+#define high_ch 21        //ÈËÎï³¤
+#define weight_ch 11      //ÈËÎï¿í
 
 
  
-IMAGE img_kid_right;              //å¾€å³æœå‘kid
-IMAGE img_kid_left;               //å¾€å·¦æœå‘kid
-IMAGE img_kid_run_right;          //å¾€å³è¿åŠ¨kidå›¾ç‰‡
-IMAGE img_kid_run_left;           //å¾€å·¦è¿åŠ¨kidå›¾ç‰‡
-IMAGE img_kid_jump_right;         //å¾€å³æœå‘è·³èµ·kidå›¾ç‰‡
-IMAGE img_kid_jump_left;          //å¾€å·¦æœå‘è·³èµ·kidå›¾ç‰‡
+IMAGE img_kid_right;              //ÍùÓÒ³¯Ïòkid
+IMAGE img_kid_left;               //Íù×ó³¯Ïòkid
+IMAGE img_kid_run_right;          //ÍùÓÒÔË¶¯kidÍ¼Æ¬
+IMAGE img_kid_run_left;           //Íù×óÔË¶¯kidÍ¼Æ¬
+IMAGE img_kid_jump_right;         //ÍùÓÒ³¯ÏòÌøÆğkidÍ¼Æ¬
+IMAGE img_kid_jump_left;          //Íù×ó³¯ÏòÌøÆğkidÍ¼Æ¬
 IMAGE img_kid_fall_right;
 IMAGE img_kid_fall_left;
-IMAGE img_zhuankuai;              //ç –å—å›¾ç‰‡
+IMAGE img_zhuankuai;              //×©¿éÍ¼Æ¬
+IMAGE img_ci;                     //´ÌÍ¼Æ¬
+IMAGE GAMEOVER  ;                  //GAMEOVERÍ¼Æ¬
 
-int fps = 20;               //å¸§æ•°
-float jump1 = 12;         //ä¸€æ®µè·³é€Ÿåº¦
-float jump2 = 9;          //äºŒæ®µè·³é€Ÿåº¦
-float gravity = 1;      //é‡åŠ›åŠ é€Ÿåº¦
+int fps = 20;               //Ö¡Êı
+float jump1 = 12;         //Ò»¶ÎÌøËÙ¶È
+float jump2 = 9;          //¶ş¶ÎÌøËÙ¶È
+float gravity = 1;      //ÖØÁ¦¼ÓËÙ¶È
 
-int level = 1;           // å­˜æ¡£ç‚¹ç¼–å·
-int isdie = 0;           //äººç‰©æ˜¯å¦æ­»äº¡ 0å­˜æ´» 1æ­»äº¡ 2æ¢å…³
-int ischange = 0;        //åœ°å›¾è½¬æ¢
-int gamestatus = 0;      //æ¸¸æˆçŠ¶æ€ï¼Œ0ä¸ºåˆå§‹èœå•ç•Œé¢ï¼Œ1ä¸ºæ­£å¸¸æ¸¸æˆï¼Œ2ä¸ºç»“æŸæ¸¸æˆçŠ¶æ€ï¼Œ3ä¸ºæ¸¸æˆæš‚åœ
+int level = 1;           // ´æµµµã±àºÅ
+int isdie = 0;           //ÈËÎïÊÇ·ñËÀÍö 0´æ»î 1ËÀÍö 2»»¹Ø
+int ischange = 0;        //µØÍ¼×ª»»
+int gamestatus = 0;      //ÓÎÏ·×´Ì¬£¬0Îª³õÊ¼²Ëµ¥½çÃæ£¬1ÎªÕı³£ÓÎÏ·£¬2Îª½áÊøÓÎÏ·×´Ì¬£¬3ÎªÓÎÏ·ÔİÍ£
 
-int towards = 1;        //åˆ¤æ–­æ–¹å‘
-int ch_vx = 6 ;         //äººç‰©è¿åŠ¨æ°´å¹³é€Ÿåº¦
-float ch_vy = 0;       //ä»»åŠ¡è¿åŠ¨ç«–ç›´é€Ÿåº¦
-int left_i = 0;        //å‘å·¦è¡Œèµ°åŠ¨ç”»åºå·
-int right_i = 0;       //å‘å³è¡Œèµ°åŠ¨ç”»åºå·
-int isOnFloor = 0;     //åˆ¤æ–­æ˜¯å¦åœ¨åœ°é¢ä¸Š
-int leftjump = 2;      //å‰©ä½™è·³è·ƒæ¬¡æ•°
-int songtimes = 0;     //ç©ºä¸­æ¾å¼€shiftæ¬¡æ•°
-int maps[25][19];      //åœ°å›¾æ ¼å­
-int mapcolor[Weight][High]; //åœ°å›¾åƒç´ ç‚¹é¢œè‰²
+int towards = 1;        //ÅĞ¶Ï·½Ïò
+int ch_vx = 6 ;         //ÈËÎïÔË¶¯Ë®Æ½ËÙ¶È
+float ch_vy = 0;       //ÈÎÎñÔË¶¯ÊúÖ±ËÙ¶È
+int left_i = 0;        //Ïò×óĞĞ×ß¶¯»­ĞòºÅ
+int right_i = 0;       //ÏòÓÒĞĞ×ß¶¯»­ĞòºÅ
+int isOnFloor = 0;     //ÅĞ¶ÏÊÇ·ñÔÚµØÃæÉÏ
+int leftjump = 2;      //Ê£ÓàÌøÔ¾´ÎÊı
+int songtimes = 0;     //¿ÕÖĞËÉ¿ªshift´ÎÊı
+int maps[25][19];      //µØÍ¼¸ñ×Ó
+int mapcolor[Weight][High]; //µØÍ¼ÏñËØµãÑÕÉ«
 
-int ch_x = bian;                         //äººç‰©æ¨ªåæ ‡ï¼ˆå·¦ä¸Šè§’åƒç´ ç‚¹ï¼‰
-int judge_ch_x_behind = ch_x + 7   ;                       //äººç‰©åæ–¹åˆ¤å®šç‚¹æ¨ªåæ ‡ï¼ˆå·¦æœå‘ï¼šjudge_ch_x_behind = ch_x + 5 + weight_chï¼‰                           
-int judge_ch_x_front = ch_x + weight_ch + 7 ;             //äººç‰©å‰æ–¹åˆ¤å®šç‚¹æ¨ªåæ ‡ (å·¦æœå‘ï¼šjudge_ch_x_front = ch_x + 5) 
-int ch_y = High - (bian + high_ch) ;                       //äººç‰©çºµåæ ‡ï¼ˆå·¦ä¸Šè§’åƒç´ ç‚¹ï¼‰
-int judge_ch_y_foot = ch_y + high_ch;                            //äººç‰©è„šéƒ¨åˆ¤å®š
-int judge_ch_y_head = ch_y;                                      //äººç‰©å¤´éƒ¨åˆ¤å®š                            
+int ch_x = bian;                         //ÈËÎïºá×ø±ê£¨×óÉÏ½ÇÏñËØµã£©
+int judge_ch_x_behind = ch_x + 7   ;                       //ÈËÎïºó·½ÅĞ¶¨µãºá×ø±ê£¨×ó³¯Ïò£ºjudge_ch_x_behind = ch_x + 5 + weight_ch£©                           
+int judge_ch_x_front = ch_x + weight_ch + 7 ;             //ÈËÎïÇ°·½ÅĞ¶¨µãºá×ø±ê (×ó³¯Ïò£ºjudge_ch_x_front = ch_x + 5) 
+int ch_y = High - (bian + high_ch) ;                       //ÈËÎï×İ×ø±ê£¨×óÉÏ½ÇÏñËØµã£©
+int judge_ch_y_foot = ch_y + high_ch;                            //ÈËÎï½Å²¿ÅĞ¶¨
+int judge_ch_y_head = ch_y;                                      //ÈËÎïÍ·²¿ÅĞ¶¨                            
 
-char input;                                       //è·å–é”®ç›˜è¾“å…¥
+char input;                                       //»ñÈ¡¼üÅÌÊäÈë
 
 
-void background();                                //æ¸¸æˆèƒŒæ™¯(ä¸åŒ…æ‹¬æ–¹å—)
-void Mapcolor();                                  //æ¸¸æˆèƒŒæ™¯é¢œè‰²ï¼ˆåŒ…æ‹¬æ–¹å—ï¼‰
-void levels();                                    //å…³å¡
+void background();                                //ÓÎÏ·±³¾°(²»°üÀ¨·½¿é)
+void Mapcolor();                                  //ÓÎÏ·±³¾°ÑÕÉ«£¨°üÀ¨·½¿é£©
+void levels();                                    //¹Ø¿¨
 void level1();
-int judgestate();                       //ç¢°æ’çŠ¶æ€
-int istouch();                           //åˆ¤å®šæ˜¯å¦ç¢°æ’     0ï¼šç©ºä¸­  1:å¾€å³æ’åˆ°ç –å—å·¦ä¾§  2ï¼šå¾€å·¦æ’åˆ°ç –å—å³ä¾§   3ï¼šå¾€ä¸Šæ’åˆ°ç –å—ä¸‹ä¾§    4ï¼šå¾€ä¸‹æ’åˆ°ç –å—ä¸Šæ–¹   5ï¼šæ’åˆ°æœ‰æ€ä¼¤åŠ›çš„ç‰©å“
-int istouchzhuankuai();                  //åˆ¤å®šç¢°æ’ç±»å‹æ˜¯å¦ä¸ºç –å—
-void judgepoint();                                //ç¢°æ’ç‚¹å‡½æ•°
-void kidwait();                                   //æ— æ“ä½œä¸‹çš„kidåŠ¨ç”»
-void kidrun();                                    //kidæ™®é€šè·‘çš„åŠ¨ç”»
-void kidjump1();                                  //kidä¸€æ®µè·³
-void kidjump2();                                  //kidäºŒæ®µè·³
-void kidfall();                                   //kidè‡ªç”±è½ä½“
-void zhuankuai(int a,int b);                      //ç –å—å›¾ç‰‡
-void map1();                                      //ç¬¬ä¸€å…³åœ°å›¾ç»˜ç”»
+int judgestate();                       //Åö×²×´Ì¬
+int istouch();                           //ÅĞ¶¨ÊÇ·ñÅö×²     0£º¿ÕÖĞ  1:ÍùÓÒ×²µ½×©¿é×ó²à  2£ºÍù×ó×²µ½×©¿éÓÒ²à   3£ºÍùÉÏ×²µ½×©¿éÏÂ²à    4£ºÍùÏÂ×²µ½×©¿éÉÏ·½   5£º×²µ½ÓĞÉ±ÉËÁ¦µÄÎïÆ·
+int istouchzhuankuai();                  //ÅĞ¶¨Åö×²ÀàĞÍÊÇ·ñÎª×©¿é
+void judgepoint();                                //Åö×²µãº¯Êı
+void kidwait();                                   //ÎŞ²Ù×÷ÏÂµÄkid¶¯»­
+void kidrun();                                    //kidÆÕÍ¨ÅÜµÄ¶¯»­
+void kidjump1();                                  //kidÒ»¶ÎÌø
+void kidjump2();                                  //kid¶ş¶ÎÌø
+void kidfall();                                   //kid×ÔÓÉÂäÌå
+void zhuankuai(int a,int b);                      //×©¿éÍ¼Æ¬
+void ci(int a,int b);                             //´ÌÍ¼Æ¬
+void map1();                                      //µÚÒ»¹ØµØÍ¼»æ»­
+void map2();                                      //µÚ¶ş¹ØµØÍ¼»æ»­
 
 void background()
 {
@@ -101,7 +105,30 @@ void zhuankuai(int a, int b)
 	putimage(a*bian,b*bian,bian,bian,&img_zhuankuai,0,0);
 }
 
-//å¾—åˆ°èƒŒæ™¯æ¯ä¸ªåƒç´ ç‚¹çš„é¢œè‰²
+void ci(int a,int b)
+{
+	int i,j,c;
+	if (maps[a][b] == 2)
+	    loadimage(&img_ci,"ci.png");
+	else if (maps[a][b] == 3)
+		loadimage(&img_ci,"ci2.png");
+	else if (maps[a][b] == 4)
+		loadimage(&img_ci,"ci3.png");
+	else if (maps[a][b] == 5)
+		loadimage(&img_ci,"ci4.png");
+	putimage(a*bian,b*bian,bian,bian,&img_ci,0,0);
+	for(i = a*bian; i < a*bian + bian ; i++)
+	{
+		for(j = b*bian; j < b *bian + bian; j ++)
+		{
+			c = getpixel(i, j);
+            if(c == 0xffffff)
+	        putpixel(i, j, 0xE0F0E6);
+		}
+	}
+}
+
+//µÃµ½±³¾°Ã¿¸öÏñËØµãµÄÑÕÉ«
 void Mapcolor()
 {
 	for (int i = 0; i < Weight; i ++)
@@ -113,7 +140,7 @@ void Mapcolor()
 	}
 }
 
-//å…³å¡é€‰æ‹©å™¨
+//¹Ø¿¨Ñ¡ÔñÆ÷
 
 void levels()
 {
@@ -126,7 +153,7 @@ void levels()
 void level1()
 {
 	background();
-	map1();
+	map2();
 	Mapcolor();
 }
 
@@ -138,20 +165,89 @@ void map1()
 			maps[i][j] = 0;
 	maps[0][18] = 1; maps[1][18] = 1; maps[2][18] = 1;
 	maps[3][16] = 1; maps[4][16] = 1; maps[5][17] = 1;
+	maps[2][2] = 2;
+	maps[2][3] = 3;
+	maps[2][4] = 4;
+	maps[2][5] = 5;
 	for(i = 0;i<25;i++)
 		for(j = 0; j<19; j++)
 			if(maps[i][j] == 1)
 				zhuankuai(i,j);
+			else if(maps[i][j] == 2 || maps[i][j] == 3 || maps[i][j] == 4 || maps[i][j] == 5)        //2£º´ÌÍùÉÏ£»3£º´ÌÍùÏÂ£»4£º´ÌÍù×ó£»5£º´ÌÍùÓÒ
+				ci(i,j);
+}
+void map2()
+{
+	int i,j,k,l;
+	int a,b;
+	for(i = 0;i<25;i++)
+		for(j = 0; j<19; j++)
+			maps[i][j] = 0;
+for(k=0;k<25;k++)
+{
+maps[k][18]=1;
+maps[k][14]=1;
+maps[k][13]=1;
+maps[k][0]=1;
+maps[k][1]=1;
+}
+for(k=2;k<19;k = k+2)
+{
+	maps[k][18]=2;
+}
+for(k=3;k<20;k = k+2)
+{
+	maps[k][16]=2;
+}
+for (l=0;l<19;l++)
+{
+maps[24][l]=1;
+}
+for(l=0;l<14;l++)
+{
+maps[0][l]=1;
+}
+for(l=3;l<11;l++)
+{
+	maps[4][l]=1;
+	maps[5][l]=1;
+}
+for(l=2;l<11;l++)
+{
+	maps[8][l]=1;
+}
+maps[23][17]=1;maps[23][16]=1;maps[23][15]=1;maps[23][14]=0;maps[23][13]=0;maps[23][1]=0;maps[23][0]=0;maps[23][4]=1;
+maps[22][17]=1;maps[22][16]=1;maps[22][14]=0;maps[22][13]=0;maps[22][1]=0;maps[22][0]=0;maps[22][1]=1;
+maps[21][17]=1;maps[21][14]=0;
+maps[1][10]=1;
+maps[2][8]=1;maps[2][5]=1;maps[2][7]=2;
+maps[3][8]=1;
+maps[8][6]=0;maps[8][5]=0;
+maps[11][9]=1;
+maps[12][9]=1;
+maps[15][7]=1;
+maps[16][7]=1;
+maps[19][5]=1;
+maps[20][5]=1;
+for(a = 0;a<25;a++)
+		for(b = 0; b<19; b++)
+			if(maps[a][b] == 1)
+				zhuankuai(a,b);
+			else if(maps[a][b] == 2 || maps[a][b] == 3 || maps[a][b] == 4 || maps[a][b] == 5)        //2£º´ÌÍùÉÏ£»3£º´ÌÍùÏÂ£»4£º´ÌÍù×ó£»5£º´ÌÍùÓÒ
+				ci(a,b);
 }
 
 
-//åˆ¤å®šæ˜¯å¦ç¢°æ’     0ï¼šç©ºä¸­       1:å¾€å³æ’åˆ°ç –å—å·¦ä¾§        2ï¼šå¾€å·¦æ’åˆ°ç –å—å³ä¾§       3ï¼šå¾€ä¸Šæ’åˆ°ç –å—ä¸‹ä¾§           4ï¼šå¾€ä¸‹æ’åˆ°ç –å—ä¸Šæ–¹        5ï¼šæ’åˆ°æœ‰æ€ä¼¤åŠ›çš„ç‰©å“
+//ÅĞ¶¨ÊÇ·ñÅö×²     0£º¿ÕÖĞ       1:ÍùÓÒ×²µ½×©¿é×ó²à        2£ºÍù×ó×²µ½×©¿éÓÒ²à       3£ºÍùÉÏ×²µ½×©¿éÏÂ²à           4£ºÍùÏÂ×²µ½×©¿éÉÏ·½        5£º×²µ½ÓĞÉ±ÉËÁ¦µÄÎïÆ·
 
 int istouch()
 {
+	float vy = ch_vy;
+	if(ch_vy <= - bian)
+		vy = - bian + 1;
 	judgepoint();
 	if(istouchzhuankuai() == 1)
-		if(maps[(judge_ch_x_front + ch_vx * towards)/ bian][(judge_ch_y_foot - 1)/ bian ] == 1 && towards == 1)
+		if(maps[(judge_ch_x_front + ch_vx * towards)/ bian][(judge_ch_y_foot - 1)/ bian ] == 1 && towards == 1 )
 		{
 			return 1;
 		}
@@ -159,17 +255,17 @@ int istouch()
 		{
 			return 2;
 		}
-		if(maps[(judge_ch_x_front - towards)/ bian][((int)(judge_ch_y_head - ch_vy))/ bian] == 1)
+		if(maps[(judge_ch_x_front - towards)/ bian][((int)(judge_ch_y_head - vy))/ bian] == 1)
 		{
 			return 3;
 		}
-		if(maps[(judge_ch_x_front - towards)/ bian][((int)(judge_ch_y_foot - ch_vy))/ bian] == 1)
+		if(maps[(judge_ch_x_front - towards)/ bian][((int)(judge_ch_y_foot - vy))/ bian] == 1 || maps[(judge_ch_x_behind - towards)/ bian][((int)(judge_ch_y_foot - vy))/ bian] == 1)
 			return 4;
 	return 0;
 
 }
 
-//ç¢°æ’çŠ¶æ€åˆ¤å®š
+//Åö×²×´Ì¬ÅĞ¶¨
 int judgestate()
 {
 	if (istouch() == 1)
@@ -193,7 +289,7 @@ int judgestate()
 		ch_y = judge_ch_y_head;
 		return 3;
 	}
-	if (istouch() == 4)
+	if (istouch() == 4 )
 	{
 		judge_ch_y_foot = (((int)(judge_ch_y_foot - ch_vy))/ bian ) * bian;
 		ch_vy = 0;
@@ -210,7 +306,13 @@ int judgestate()
 
 int istouchzhuankuai()
 {
-	if(maps[(judge_ch_x_front + ch_vx * towards)/ bian][(judge_ch_y_foot - ch_vx) / bian] == 1 || maps[(judge_ch_x_front + ch_vx * towards)/ bian][(judge_ch_y_head - ch_vx)/ bian] == 1 || maps[(judge_ch_x_behind)/ bian][(judge_ch_y_head - ch_vx)/ bian] == 1 || maps[judge_ch_x_behind / bian][(judge_ch_y_head - ch_vx)/ bian] == 1)
+	float vy = ch_vy;
+	if(ch_vy <= - bian + 1)
+		vy =  - bian + 1;
+	if(maps[(judge_ch_x_front + ch_vx * towards)/ bian][((int)(judge_ch_y_foot - vy))/ bian] == 1 || 
+		maps[(judge_ch_x_front + ch_vx * towards)/ bian][((int)(judge_ch_y_head - vy))/ bian] == 1 || 
+		maps[(judge_ch_x_behind)/ bian][((int)(judge_ch_y_head - vy))/ bian ] == 1 || 
+		maps[judge_ch_x_behind  / bian][((int)(judge_ch_y_foot - vy))/ bian] == 1)
 		return 1;
 	else
 		return 0;
@@ -233,7 +335,7 @@ void judgepoint()
 }
 
 
-//kidä¸åŠ¨çš„æ—¶å€™åŠ¨ç”»
+//kid²»¶¯µÄÊ±ºò¶¯»­
 
 void kidwait()                          
 {
@@ -243,7 +345,7 @@ void kidwait()
 	loadimage(&img_kid_left,"img_kid1.png");
 	int k,m,n;
 	BeginBatchDraw();
-	if(towards > 0)               //å¾€å³æœå‘
+	if(towards > 0)               //ÍùÓÒ³¯Ïò
 	{
     	for(k=0; k <= 12;)
 		{   
@@ -251,7 +353,7 @@ void kidwait()
 			 {
 		        for(n = ch_y - 21 + ch_vy; n <= ch_y + 21 - ch_vy; n ++)
 				{
-		         putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+		         putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 				}
 			 }
 	    	 switch (k)
@@ -292,7 +394,7 @@ void kidwait()
 			     case 11:
 				     putimage(ch_x,ch_y,24,21,&img_kid_right,28*(k-8)-1,3);
 			    	 break;
-			 }                                                             //å¯¼å…¥kidå›¾ç‰‡
+			 }                                                             //µ¼ÈëkidÍ¼Æ¬
 	          int c;
 	          for(int i = ch_x; i <= ch_x + 24; i ++)
 			  {
@@ -300,7 +402,7 @@ void kidwait()
 				  {
 		           c = getpixel(i, j);
                    if(c == 0xffffff)
-			           putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+			           putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 				  }
 			  }
 	 	      FlushBatchDraw();
@@ -323,7 +425,7 @@ void kidwait()
 			 {
 		        for(n = ch_y - 21 + ch_vy; n <= ch_y + 21 - ch_vy; n ++)
 				{
-		         putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+		         putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 				}
 			 }
 	    	 switch (k)
@@ -364,7 +466,7 @@ void kidwait()
 			     case 11:
 				     putimage(ch_x,ch_y,24,21,&img_kid_left,174-(28*(k-8)-1+24),3);
 			    	 break;
-			 }                                                             //å¯¼å…¥kidå›¾ç‰‡
+			 }                                                             //µ¼ÈëkidÍ¼Æ¬
 	          int c;
 	          for(int i = ch_x; i <= ch_x + 24; i ++)
 			  {
@@ -372,7 +474,7 @@ void kidwait()
 				  {
 		           c = getpixel(i, j);
                    if(c == 0xffffff)
-			           putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+			           putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 				  }
 			  }
 	 	      FlushBatchDraw();
@@ -394,7 +496,7 @@ void kidwait()
 	EndBatchDraw();
 }
 
-//kidè·‘æ­¥åŠ¨ç”»
+//kidÅÜ²½¶¯»­
 void kidrun()
 {
 	int m,n,i,j;
@@ -412,7 +514,7 @@ void kidrun()
 
 		if(kbhit())
 		{
-	        if((GetAsyncKeyState(VK_RIGHT)&0x8000))                             //å¾€å³è¿åŠ¨
+	        if((GetAsyncKeyState(VK_RIGHT)&0x8000))                             //ÍùÓÒÔË¶¯
 			{
 				towards = 1;
 				if(judgestate() == 1)
@@ -425,7 +527,7 @@ void kidrun()
 				{
 		            for(n = ch_y - 21 + ch_vy; n <= ch_y + 21 - ch_vy; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 	            loadimage(&img_kid_run_right, "img_kid.png");
@@ -447,7 +549,7 @@ void kidrun()
 			      	case 4:
 			           	putimage(ch_x,ch_y,24,21,&img_kid_run_right,28*right_i+6,29);
 			           	break;
-				}                                                             //å¯¼å…¥kidå›¾ç‰‡
+				}                                                             //µ¼ÈëkidÍ¼Æ¬
 	            int c;
 	            for(i = ch_x; i <= ch_x + 24; i ++)
 				{
@@ -455,7 +557,7 @@ void kidrun()
 					{
 			            c = getpixel(i, j);
                         if(c == 0xffffff)
-				            putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+				            putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 					}
 				}
 		        FlushBatchDraw();
@@ -464,7 +566,7 @@ void kidrun()
 		        if(right_i == 4)
 			        right_i = 0;
 			}
-			else if((GetAsyncKeyState(VK_LEFT)&0x8000))                                      //å¾€å·¦è¿åŠ¨åŠ¨ç”»
+			else if((GetAsyncKeyState(VK_LEFT)&0x8000))                                      //Íù×óÔË¶¯¶¯»­
 			{
 				towards = -1;
 				if(judgestate() == 2)
@@ -476,7 +578,7 @@ void kidrun()
 				{
 		            for(n = ch_y - 21 + ch_vy; n <= ch_y + 21 - ch_vy; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 	            loadimage(&img_kid_run_left, "img_kid1.png");
@@ -494,7 +596,7 @@ void kidrun()
 			      	case 3:
 			           	putimage(ch_x,ch_y,26,21,&img_kid_run_left,174-(28*(left_i+1)+3),29);
 			           	break;
-				}                                                             //å¯¼å…¥kidå›¾ç‰‡
+				}                                                             //µ¼ÈëkidÍ¼Æ¬
 	            int c;
 	            for(i = ch_x; i <= ch_x + 26; i ++)
 				{
@@ -502,7 +604,7 @@ void kidrun()
 					{
 			            c = getpixel(i, j);
                         if(c == 0xffffff)
-				            putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+				            putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 					}
 				}
 		        FlushBatchDraw();
@@ -531,7 +633,7 @@ void kidrun()
 	EndBatchDraw();
 }
 
-//è·³è·ƒåŠ¨ç”»
+//ÌøÔ¾¶¯»­
 void kidjump1()
 { 
 	leftjump --;
@@ -583,7 +685,7 @@ void kidjump1()
 				{
 		            for(n = ch_y - 2 * ch_vy - 42; n <= ch_y + 42 + 2 * ch_vy; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 	        loadimage(&img_kid_jump_right, "img_kid.png");
@@ -609,7 +711,7 @@ void kidjump1()
 					{
 			            c = getpixel(i, j);
                         if(c == 0xffffff)
-				            putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+				            putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 					}
 				}
 				FlushBatchDraw();
@@ -626,7 +728,7 @@ void kidjump1()
 				{
 		            for(n = ch_y - 2 * ch_vy - 42; n <= ch_y + 42 + 2 * ch_vy; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 	            loadimage(&img_kid_jump_left, "img_kid1.png");
@@ -652,7 +754,7 @@ void kidjump1()
 					{
 			            c = getpixel(i, j);
                         if(c == 0xffffff)
-				            putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+				            putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 					}
 				}
 				FlushBatchDraw();
@@ -717,7 +819,7 @@ void kidjump2()
 				{
 		            for(n = ch_y - 2 * ch_vy - 42; n <= ch_y + 42 + 2 * ch_vy; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 	        loadimage(&img_kid_jump_right, "img_kid.png");
@@ -743,7 +845,7 @@ void kidjump2()
 					{
 			            c = getpixel(i, j);
                         if(c == 0xffffff)
-				            putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+				            putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 					}
 				}
 				FlushBatchDraw();
@@ -760,7 +862,7 @@ void kidjump2()
 				{
 		            for(n = ch_y - 2 * ch_vy - 42; n <= ch_y + 42 + 2 * ch_vy; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 	            loadimage(&img_kid_jump_left, "img_kid1.png");
@@ -786,7 +888,7 @@ void kidjump2()
 					{
 			            c = getpixel(i, j);
                         if(c == 0xffffff)
-				            putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+				            putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 					}
 				}
 				FlushBatchDraw();
@@ -803,7 +905,7 @@ void kidjump2()
 
 }
 
-//ä¸‹é™åŠ¨ç”»
+//ÏÂ½µ¶¯»­
 void kidfall()
 { 
 	int m,n,i,j;
@@ -839,13 +941,16 @@ void kidfall()
 		else 
 			ch_vx = 0;
 		ch_y = ch_y - ch_vy;
+		float vy = ch_vy;
+	        if(ch_vy <= - bian)
+		        vy = - bian + 1;
 		if(towards == 1)
 		{
             for(m = ch_x - 2*ch_vx -24; m <= ch_x + 2*ch_vx + 24; m ++)
 				{
 		            for(n = ch_y - 2 * ch_vy - 42; n <= ch_y + 42 + 2 * ch_vy; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 	        loadimage(&img_kid_fall_right, "img_kid.png");
@@ -871,7 +976,7 @@ void kidfall()
 				{
 			         c = getpixel(i, j);
                      if(c == 0xffffff)
-				         putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+				         putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 				}
 			}
 		    FlushBatchDraw();
@@ -885,11 +990,26 @@ void kidfall()
 				{
 		            for(n = 0; n <= judge_ch_y_foot; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 				break;
 			}
+			if(judgestate() == 1 && (maps[(judge_ch_x_front - towards)/ bian][((int)(judge_ch_y_foot - vy))/ bian] == 1 || 
+					maps[(judge_ch_x_behind - towards)/ bian][((int)(judge_ch_y_foot - vy))/ bian] == 1))
+				{
+					judge_ch_y_foot = (((int)(judge_ch_y_foot - ch_vy))/ bian ) * bian;
+	            	ch_vy = 0;
+            		ch_y = judge_ch_y_foot - high_ch;
+					for(m = ch_x - 2*6 -24; m <= ch_x + 2*ch_vx + 24; m ++)
+					{
+		                for(n = 0; n <= judge_ch_y_foot; n ++)
+						{
+			                putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
+						}
+					}
+					break;
+				}
 		}
 		else if(towards == -1)
 		{ 
@@ -897,7 +1017,7 @@ void kidfall()
 				{
 		            for(n = ch_y - 2 * ch_vy - 42; n <= ch_y + 42 + 2 * ch_vy; n ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+			            putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
 					}
 				}
 	            loadimage(&img_kid_fall_left, "img_kid1.png");
@@ -923,7 +1043,7 @@ void kidfall()
 					{
 			            c = getpixel(i, j);
                         if(c == 0xffffff)
-				            putpixel(i, j, mapcolor[i][j]);          //å»é™¤kidä¹‹å¤–çš„é¢œè‰²
+				            putpixel(i, j, mapcolor[i][j]);          //È¥³ıkidÖ®ÍâµÄÑÕÉ«
 					}
 				}
 				FlushBatchDraw();
@@ -932,16 +1052,31 @@ void kidfall()
 				if(left_i == 4)
 					left_i = 0;
 				if(judgestate() == 4)
-			{
-					for(m = ch_x - 2*6 -24; m <= ch_x + 2*ch_vx + 24; m ++)
 				{
-		            for(n = 0; n <= judge_ch_y_foot; n ++)
+					for(m = ch_x - 2*6 -24; m <= ch_x + 2*ch_vx + 24; m ++)
 					{
-			            putpixel(m, n, mapcolor[m][n]);          //å»é™¤kidä¸Šä¸€å¸§åŠ¨ç”»
+		                for(n = 0; n <= judge_ch_y_foot; n ++)
+						{
+			                putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
+						}
 					}
-				}
 				break;
-			}
+				}
+				if(judgestate() == 2 && (maps[(judge_ch_x_front - towards)/ bian][((int)(judge_ch_y_foot - vy))/ bian] == 1 || 
+					maps[(judge_ch_x_behind - towards)/ bian][((int)(judge_ch_y_foot - vy))/ bian] == 1))
+				{
+					judge_ch_y_foot = (((int)(judge_ch_y_foot - ch_vy))/ bian ) * bian;
+	            	ch_vy = 0;
+            		ch_y = judge_ch_y_foot - high_ch;
+					for(m = ch_x - 2*6 -24; m <= ch_x + 2*ch_vx + 24; m ++)
+					{
+		                for(n = 0; n <= judge_ch_y_foot; n ++)
+						{
+			                putpixel(m, n, mapcolor[m][n]);          //È¥³ıkidÉÏÒ»Ö¡¶¯»­
+						}
+					}
+					break;
+				}
 		}
 		ch_vy = ch_vy - gravity;
 	}
@@ -952,11 +1087,32 @@ void kidfall()
 	kidrun();
 }
 
+void dead()
+{
+	int i,j,c;
+	{
+	    loadimage(&GAMEOVER,"gameover.png");
+	    putimage(20,220,758,160,&GAMEOVER,0,0);
+		for (1 == 20; i <= 778 ; i ++)
+		{
+			for(j = 220; j <= 380; j ++)
+			{
+			c = getpixel(i, j);
+            if(c == 0xffffff)
+	            putpixel(i, j, mapcolor[i][j]); 
+			}
+		}
+
+	}
+}
+
 
 void main()
 {
     initgraph(Weight,High);
 	levels();
+	//dead();
 	kidwait();
 	closegraph();
 }
+
